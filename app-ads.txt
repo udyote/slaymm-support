@@ -1,1 +1,1 @@
-# AdMob yayıncı kimliğini (pub-...) release.json > admob.publisherId alanına yaz ve npm run release:prepare çalıştır
+google.com, pub-9054642754449972, DIRECT, f08c47fec0942fa0
